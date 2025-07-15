@@ -84,7 +84,7 @@ The app will be live at [http://localhost:5173](http://localhost:5173)
 
 ## 🌐 Live Demo
 
-🔗 [Visit My Live Portfolio](https://my_portfolio.vercel.app)
+🔗 [Visit My Live Portfolio](https://vercel.com/maxs-projects-462be51d/my-portfolio)
 
 ---
 
