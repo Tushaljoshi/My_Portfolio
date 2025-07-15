@@ -1,13 +1,13 @@
 
 # 💼 Tushal Joshi - Developer Portfolio
 
-A modern, responsive, and interactive **personal developer portfolio website** built using **React**, **Three.js**, **Tailwind CSS**, **Framer Motion**, and **EmailJS**. It showcases my work, experience, and skills with a dynamic, animated interface to impress recruiters and collaborators.
+A modern, responsive, and interactive **personal developer portfolio website** built using **React**, **Tailwind CSS**, **Framer Motion**, and **EmailJS**. It showcases my work, experience, and skills with a dynamic, animated interface to impress recruiters and collaborators.
 
 ---
 
 ## 🚀 Features
 
-- 🔥 **Three.js Earth Canvas**
+- 🔥 **Earth Canvas**
 - 💬 **Contact Form with EmailJS Integration**
 - 📩 **Auto-confirmation emails** after contact or testimonial submission
 - 📱 **Fully responsive design** across all devices
@@ -22,7 +22,6 @@ A modern, responsive, and interactive **personal developer portfolio website** b
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Three.js](https://threejs.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [GSAP ScrollTrigger](https://greensock.com/scrolltrigger/)
 - [EmailJS](https://www.emailjs.com/) – For sending emails without a backend
@@ -69,7 +68,7 @@ VITE_APP_EMAILJS_PUBLIC_KEY=your_public_key
 
 ```bash
 # Clone the repository
-git clone https://github.com/Tushaljoshi/portfolio.git
+git clone https://github.com/Tushaljoshi/My_Portfolio.git
 cd portfolio
 
 # Install dependencies
@@ -85,7 +84,7 @@ The app will be live at [http://localhost:5173](http://localhost:5173)
 
 ## 🌐 Live Demo
 
-🔗 [Visit My Live Portfolio](https://your-portfolio.vercel.app)
+🔗 [Visit My Live Portfolio](https://tushal_portfolio.vercel.app)
 
 ---
 
