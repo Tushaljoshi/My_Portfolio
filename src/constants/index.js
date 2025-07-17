@@ -181,7 +181,6 @@ const projects = [
     ],
     image: Travelo,
     source_code_link: "https://github.com/Tushaljoshi/travel-frontend",
-    source_code_link: "https://github.com/Tushaljoshi/travel-backend",
     live_link: "https://travel-frontend-peach.vercel.app/", 
     live_link: "https://travel-backend-lljn.onrender.com/",
   },
