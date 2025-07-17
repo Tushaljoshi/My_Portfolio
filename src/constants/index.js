@@ -148,7 +148,7 @@ const projects = [
       { name: "Html", color: "blue-text-gradient" },
       { name: "CSS", color: "white-text-gradient" },
       { name: "Javascript", color: "white-text-gradient" },
-      { name: "nodejs", color: "pink-text-gradient" },
+      { name: "Nodejs", color: "pink-text-gradient" },
       { name: "Expressjs", color: "pink-text-gradient" },
     ],
     image: NavRasa,
@@ -170,7 +170,7 @@ const projects = [
   {
     name: "Travelo",
     description:
-      "A sleek, responsive travel booking web application designed to help users explore destinations, plan trips, and book tours with ease. Built using HTML, CSS, and JavaScript, it features animated scrolling, destination highlights, and an intuitive interface—ideal for showcasing frontend creativity and user-focused design.",
+      "A sleek, responsive travel booking web application designed to help users explore destinations, plan trips, and book tours with ease. Built using HTML, CSS, JavaScript, Python, Flask, MySQL it features animated scrolling, destination highlights, and an intuitive interface—ideal for showcasing frontend creativity and user-focused design.",
     tags: [
       { name: "Html", color: "blue-text-gradient" },
       { name: "CSS", color: "white-text-gradient" },
@@ -187,10 +187,14 @@ const projects = [
   {
     name: "SunTech",
     description:
-      "A sleek and responsive landing page designed for a solar energy solutions brand using HTML, CSS, JavaScript, and EmailJS. The site features smooth scroll-based animations, interactive sections, and a responsive layout across all devices./n ",
+      "A sleek and responsive landing page designed for a solar energy solutions brand using React, JavaScript,NodeJS and EmailJS. The site features smooth scroll-based animations, interactive sections, and a responsive layout across all devices./n ",
     tags: [
       { name: "ReactJS", color: "blue-text-gradient" },
       { name: "Tailwind CSS", color: "white-text-gradient" },
+      { name: "Nodejs", color: "white-text-gradient" },
+      { name: "Expreejs", color: "white-text-gradient" },
+
+
     ],
     image: SunTech,
     source_code_link: "https://github.com/Tushaljoshi/SunTech",
