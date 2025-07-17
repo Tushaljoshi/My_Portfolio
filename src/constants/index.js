@@ -116,11 +116,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontend Developer Intern",
+    title: "Web Developement Intern",
     company_name: "NavRasa IT Solutions",
     icon: navrasa_logo,
     iconBg: "#383E56",
-    date: "1 May/2025 - 31 July/2025",
+    date: "May-2025 - Present",
     points: [
       "👨‍💻 Developed real-world web applications as part of a hybrid team at Navrasa IT Solutions, contributing to both frontend and backend tasks under tight deadlines.",
 
