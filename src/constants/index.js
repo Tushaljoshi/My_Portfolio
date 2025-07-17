@@ -170,7 +170,7 @@ const projects = [
   {
     name: "Travelo",
     description:
-      "A sleek, responsive travel booking web application designed to help users explore destinations, plan trips, and book tours with ease. Built using HTML, CSS, JavaScript, Python, Flask, MySQL it features animated scrolling, destination highlights, and an intuitive interface—ideal for showcasing frontend creativity and user-focused design.",
+      "A sleek, responsive travel booking web application designed to help users explore destinations, plan trips, and book tours with ease. Built using HTML, CSS, JavaScript, Python, Flask, MySQL it features animated scrolling, destination highlights, and an intuitive interface—ideal for showcasing frontend creativity and user-focused design and Forntend and Backend both have sepearte git repositories",
     tags: [
       { name: "Html", color: "blue-text-gradient" },
       { name: "CSS", color: "white-text-gradient" },
@@ -181,8 +181,7 @@ const projects = [
     ],
     image: Travelo,
     source_code_link: "https://github.com/Tushaljoshi/travel-frontend",
-    live_link: "https://travel-frontend-peach.vercel.app/", 
-    live_link: "https://travel-backend-lljn.onrender.com/",
+    live_link: "https://travel-frontend-peach.vercel.app/",
   },
   {
     name: "SunTech",
